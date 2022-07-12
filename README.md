@@ -6,7 +6,7 @@
 
 [Стартовый код для реализации проекта](https://repl.it/@netology_pb/Diplom-startovyi-kod). Страница отобржается во вкладке **result**, отладочная информация во вкладке **console**.
 
-![Image of the game](tictactoe.png)
+![Image of the game](./img/tictactoe.png)
 
 ## Из чего состоит проект?
 
